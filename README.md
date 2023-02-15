@@ -22,6 +22,7 @@ Voici un exemple de texte chiffré avec une clé de 3 :
 Texte clair :    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 Texte chiffré :  D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
+
 Ainsi, le message "HELLO" serait chiffré en "KHOOR" avec cette clé.
 
 # 📍 Limitations
